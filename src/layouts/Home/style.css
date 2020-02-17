@@ -1,0 +1,130 @@
+#home .title {
+    font-size: 2.5rem;
+    margin-top: 2rem;
+    margin-bottom: 1.5rem;
+    text-align: center;
+}
+
+#home .filter {
+    margin-bottom: 1.5rem;
+}
+
+#home .search-key-container .search-key {
+    height: 100%;
+}
+
+.search-key-container {
+    flex: 3;
+}
+
+.search-key {
+    width: 100%;
+    padding: 0.25rem;
+}
+
+.search-btn {
+    flex: 1;
+    background: #0077bf !important;
+    border-radius: initial;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#home .react-bs-table-bordered {
+    border-radius: unset;
+}
+
+#home .react-bs-container-header.table-header-wrapper {
+    background: #0077bf;
+}
+
+#home .react-bs-container-header.table-header-wrapper .table th {
+    /* background-color: #0077bf; */
+    color: #fff;
+    padding: 0.625rem;
+    text-align: center !important;
+    border: none;
+}
+
+#home .react-bs-container-body .table td {
+    /* background-color: #0077bf; */
+    border: none;
+    padding: 0.3125rem 0.625rem;
+    font-size: 14px;
+    vertical-align: inherit;
+}
+
+.info-indicator span {
+    font-size: 0.875rem;
+}
+
+.info-indicator .round {
+    height: 1.3125rem;
+    width: 1.3125rem;
+    border-radius: 50%;
+    background-color: #0077bf;
+    font-size: 0.625rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.info-indicator .round.yellow {
+    background-color: #cfcf01;
+}
+
+.info-indicator .round.red {
+    background-color: #b73434;
+}
+
+.info-indicator .round.green {
+    background-color: #008000;
+}
+
+.dropdown {
+    display: flex;
+}
+
+#home .table  {
+    width: 100%;
+    margin-bottom: 1rem;
+    color: #212529;  
+}
+
+#home .react-bs-container-header .table {
+    margin-bottom: 0;
+}
+
+#home .react-bs-container-body .table td .fa-star{
+    opacity: .3;
+    color: #baba37;
+}
+
+#home .react-bs-container-body .table td .fa-star.active{
+    opacity: 1;
+}
+
+#home .react-bs-container-body .table td .fa-user-friends {
+    margin-left: 2px;
+    color: #0077bf;
+}
+
+#home .pagination-field {
+    border: 0.0625rem solid;
+    padding: 0.5rem 0.75rem;
+    margin: 0.25rem 0.375rem;
+    width: 3.25rem;
+    text-align: center;
+    cursor: pointer;
+}
+
+#home .pagination-field.active {
+    background: #0077bf;
+}
+
+#home .pagination-container {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 0.625rem;
+}

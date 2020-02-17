@@ -1,0 +1,1073 @@
+
+[
+    {
+        "metricID":1,"lob":"BM","dept_name":"Business Care","segment":"Small Business","metricName":"ABT","uscfID":10
+    },
+    {
+        "metricID":2,"lob":"BM","dept_name":"Business Care","segment":"Small Business","metricName":"ADJUST","uscfID":10
+    },
+    {
+        "metricID":316,"lob":"BM","dept_name":"Business Care","segment":"Small Business","metricName":"AHT","uscfID":10
+    },
+    {
+        "metricID":3,"lob":"BM","dept_name":"Business Care","segment":"Small Business","metricName":"SR60/NL","uscfID":10
+    },
+    {
+        "metricID":260,"lob":"BM","dept_name":"Business Care","segment":"Small Business","metricName":"SR/HYBRID","uscfID":10
+    },
+    {
+        "metricID":4,"lob":"BM","dept_name":"Business Care","segment":"Small Business","metricName":"FCR7","uscfID":10
+    },
+    {
+        "metricID":5,"lob":"BM","dept_name":"Business Care","segment":"Small Business","metricName":"FIZZB","uscfID":10
+    },
+    {
+        "metricID":297,"lob":"BM","dept_name":"Business Care","segment":"Small Business","metricName":"FIZZB","uscfID":10
+    },
+    {
+        "metricID":6,"lob":"BM","dept_name":"Business Care","segment":"Small Business","metricName":"LEADS","uscfID":10
+    },
+    {
+        "metricID":7,"lob":"BM","dept_name":"Business Care","segment":"Small Business","metricName":"TRF-IMP-LD","uscfID":10
+    },
+    {
+        "metricID":317,"lob":"BM","dept_name":"Collection Inbound","segment":"Mobility Collection Inbound","metricName":"AHT","uscfID":168
+    },
+    {
+        "metricID":8,"lob":"BM","dept_name":"Collection Inbound","segment":"Mobility Collection Inbound","metricName":"BM/$COLL","uscfID":168
+    },
+    {
+        "metricID":9,"lob":"BM","dept_name":"Collection Inbound","segment":"Mobility Collection Inbound","metricName":"BM/COLL/PTP","uscfID":168
+    },
+    {
+        "metricID":10,"lob":"BM","dept_name":"Collection Inbound","segment":"Mobility Collection Inbound","metricName":"CURE RATE","uscfID":168
+    },
+    {
+        "metricID":11,"lob":"BM","dept_name":"Collection Inbound","segment":"Mobility Collection Inbound","metricName":"FIZZB","uscfID":168
+    },
+    {
+        "metricID":298,"lob":"BM","dept_name":"Collection Inbound","segment":"Mobility Collection Inbound","metricName":"FIZZB","uscfID":168
+    },
+    {
+        "metricID":16,"lob":"BM","dept_name":"Consumer Care","segment":"BM & Solo Prepaid","metricName":"ABT","uscfID":58
+    },
+    {
+        "metricID":17,"lob":"BM","dept_name":"Consumer Care","segment":"BM & Solo Prepaid","metricName":"ADJUST","uscfID":58
+    },
+    {
+        "metricID":318,"lob":"BM","dept_name":"Consumer Care","segment":"BM & Solo Prepaid","metricName":"AHT","uscfID":58
+    },
+    {
+        "metricID":18,"lob":"BM","dept_name":"Consumer Care","segment":"BM & Solo Prepaid","metricName":"FCR7","uscfID":58
+    },
+    {
+        "metricID":19,"lob":"BM","dept_name":"Consumer Care","segment":"BM & Solo Prepaid","metricName":"FIZZB","uscfID":58
+    },
+    {
+        "metricID":299,"lob":"BM","dept_name":"Consumer Care","segment":"BM & Solo Prepaid","metricName":"FIZZB","uscfID":58
+    },
+    {
+        "metricID":20,"lob":"BM","dept_name":"Consumer Care","segment":"BM & Solo Prepaid","metricName":"TRF-IMP-LD","uscfID":58
+    },
+    {
+        "metricID":21,"lob":"BM","dept_name":"Consumer Care","segment":"Consumer","metricName":"ABT","uscfID":59
+    },
+    {
+        "metricID":22,"lob":"BM","dept_name":"Consumer Care","segment":"Consumer","metricName":"ADJUST","uscfID":59
+    },
+    {
+        "metricID":319,"lob":"BM","dept_name":"Consumer Care","segment":"Consumer","metricName":"AHT","uscfID":59
+    },
+    {
+        "metricID":23,"lob":"BM","dept_name":"Consumer Care","segment":"Consumer","metricName":"SR60/NL","uscfID":59
+    },
+    {
+        "metricID":261,"lob":"BM","dept_name":"Consumer Care","segment":"Consumer","metricName":"SR/HYBRID","uscfID":59
+    },
+    {
+        "metricID":24,"lob":"BM","dept_name":"Consumer Care","segment":"Consumer","metricName":"FCR7","uscfID":59
+    },
+    {
+        "metricID":25,"lob":"BM","dept_name":"Consumer Care","segment":"Consumer","metricName":"FIZZB","uscfID":59
+    },
+    {
+        "metricID":300,"lob":"BM","dept_name":"Consumer Care","segment":"Consumer","metricName":"FIZZB","uscfID":59
+    },
+    {
+        "metricID":26,"lob":"BM","dept_name":"Consumer Care","segment":"Consumer","metricName":"TRF-IMP-LD","uscfID":59
+    },
+    {
+        "metricID":141,"lob":"BM","dept_name":"Consumer Care","segment":"Mobility Serve to Sell","metricName":"ABT","uscfID":1544
+    },
+    {
+        "metricID":320,"lob":"BM","dept_name":"Consumer Care","segment":"Mobility Serve to Sell","metricName":"AHT","uscfID":1544
+    },
+    {
+        "metricID":240,"lob":"BM","dept_name":"Consumer Care","segment":"Mobility Serve to Sell","metricName":"SR60/NL","uscfID":1544
+    },
+    {
+        "metricID":280,"lob":"BM","dept_name":"Consumer Care","segment":"Mobility Serve to Sell","metricName":"SR/HYBRID","uscfID":1544
+    },
+    {
+        "metricID":142,"lob":"BM","dept_name":"Consumer Care","segment":"Mobility Serve to Sell","metricName":"FCR7","uscfID":1544
+    },
+    {
+        "metricID":241,"lob":"BM","dept_name":"Consumer Care","segment":"Mobility Serve to Sell","metricName":"FIZZB","uscfID":1544
+    },
+    {
+        "metricID":301,"lob":"BM","dept_name":"Consumer Care","segment":"Mobility Serve to Sell","metricName":"FIZZB","uscfID":1544
+    },
+    {
+        "metricID":143,"lob":"BM","dept_name":"Consumer Care","segment":"Mobility Serve to Sell","metricName":"RGU CLOSE RATE","uscfID":1544
+    },
+    {
+        "metricID":144,"lob":"BM","dept_name":"Consumer Care","segment":"Mobility Serve to Sell","metricName":"TRF-IMP-LD","uscfID":1544
+    },
+    {
+        "metricID":145,"lob":"BM","dept_name":"Consumer Care","segment":"PC Mobile","metricName":"ABT","uscfID":170
+    },
+    {
+        "metricID":146,"lob":"BM","dept_name":"Consumer Care","segment":"PC Mobile","metricName":"ADJUST","uscfID":170
+    },
+    {
+        "metricID":321,"lob":"BM","dept_name":"Consumer Care","segment":"PC Mobile","metricName":"AHT","uscfID":170
+    },
+    {
+        "metricID":147,"lob":"BM","dept_name":"Consumer Care","segment":"PC Mobile","metricName":"FCR7","uscfID":170
+    },
+    {
+        "metricID":148,"lob":"BM","dept_name":"Consumer Care","segment":"PC Mobile","metricName":"FIZZB","uscfID":170
+    },
+    {
+        "metricID":302,"lob":"BM","dept_name":"Consumer Care","segment":"PC Mobile","metricName":"FIZZB","uscfID":170
+    },
+    {
+        "metricID":149,"lob":"BM","dept_name":"Consumer Care","segment":"PC Mobile","metricName":"TRF-IMP-LD","uscfID":170
+    },
+    {
+        "metricID":150,"lob":"BM","dept_name":"Consumer Care","segment":"Personal Service Team","metricName":"ABT","uscfID":171
+    },
+    {
+        "metricID":322,"lob":"BM","dept_name":"Consumer Care","segment":"Personal Service Team","metricName":"AHT","uscfID":171
+    },
+    {
+        "metricID":151,"lob":"BM","dept_name":"Consumer Care","segment":"Personal Service Team","metricName":"SR60/NL/COM","uscfID":171
+    },
+    {
+        "metricID":152,"lob":"BM","dept_name":"Consumer Care","segment":"Personal Service Team","metricName":"FCR7","uscfID":171
+    },
+    {
+        "metricID":27,"lob":"BM","dept_name":"Consumer Care","segment":"Virgin Postpaid","metricName":"ABT","uscfID":109
+    },
+    {
+        "metricID":28,"lob":"BM","dept_name":"Consumer Care","segment":"Virgin Postpaid","metricName":"ADJUST","uscfID":109
+    },
+    {
+        "metricID":323,"lob":"BM","dept_name":"Consumer Care","segment":"Virgin Postpaid","metricName":"AHT","uscfID":109
+    },
+    {
+        "metricID":29,"lob":"BM","dept_name":"Consumer Care","segment":"Virgin Postpaid","metricName":"SR60/NL","uscfID":109
+    },
+    {
+        "metricID":262,"lob":"BM","dept_name":"Consumer Care","segment":"Virgin Postpaid","metricName":"SR/HYBRID","uscfID":109
+    },
+    {
+        "metricID":30,"lob":"BM","dept_name":"Consumer Care","segment":"Virgin Postpaid","metricName":"FCR7","uscfID":109
+    },
+    {
+        "metricID":31,"lob":"BM","dept_name":"Consumer Care","segment":"Virgin Postpaid","metricName":"FIZZB","uscfID":109
+    },
+    {
+        "metricID":303,"lob":"BM","dept_name":"Consumer Care","segment":"Virgin Postpaid","metricName":"FIZZB","uscfID":109
+    },
+    {
+        "metricID":32,"lob":"BM","dept_name":"Consumer Care","segment":"Virgin Postpaid","metricName":"TRF-IMP-LD","uscfID":109
+    },
+    {
+        "metricID":33,"lob":"BM","dept_name":"Consumer Care","segment":"Virgin Prepaid","metricName":"ABT","uscfID":60
+    },
+    {
+        "metricID":34,"lob":"BM","dept_name":"Consumer Care","segment":"Virgin Prepaid","metricName":"ADJUST","uscfID":60
+    },
+    {
+        "metricID":324,"lob":"BM","dept_name":"Consumer Care","segment":"Virgin Prepaid","metricName":"AHT","uscfID":60
+    },
+    {
+        "metricID":35,"lob":"BM","dept_name":"Consumer Care","segment":"Virgin Prepaid","metricName":"FCR7","uscfID":60
+    },
+    {
+        "metricID":36,"lob":"BM","dept_name":"Consumer Care","segment":"Virgin Prepaid","metricName":"FIZZB","uscfID":60
+    },
+    {
+        "metricID":37,"lob":"BM","dept_name":"Consumer Care","segment":"Virgin Prepaid","metricName":"TRF-IMP-LD","uscfID":60
+    },
+    {
+        "metricID":38,"lob":"BM","dept_name":"Consumer Care","segment":"Virgin Serve to Sell","metricName":"ABT","uscfID":1304
+    },
+    {
+        "metricID":325,"lob":"BM","dept_name":"Consumer Care","segment":"Virgin Serve to Sell","metricName":"AHT","uscfID":1304
+    },
+    {
+        "metricID":39,"lob":"BM","dept_name":"Consumer Care","segment":"Virgin Serve to Sell","metricName":"SR60/NL","uscfID":1304
+    },
+    {
+        "metricID":281,"lob":"BM","dept_name":"Consumer Care","segment":"Virgin Serve to Sell","metricName":"SR/HYBRID","uscfID":1304
+    },
+    {
+        "metricID":40,"lob":"BM","dept_name":"Consumer Care","segment":"Virgin Serve to Sell","metricName":"FCR7","uscfID":1304
+    },
+    {
+        "metricID":41,"lob":"BM","dept_name":"Consumer Care","segment":"Virgin Serve to Sell","metricName":"FIZZB","uscfID":1304
+    },
+    {
+        "metricID":282,"lob":"BM","dept_name":"Consumer Care","segment":"Virgin Serve to Sell","metricName":"RGU CLOSE RATE","uscfID":1304
+    },
+    {
+        "metricID":42,"lob":"BM","dept_name":"Consumer Care","segment":"Virgin Serve to Sell","metricName":"RGU CLOSE RATE","uscfID":1304
+    },
+    {
+        "metricID":43,"lob":"BM","dept_name":"Consumer Care","segment":"Virgin Serve to Sell","metricName":"TRF-IMP-LD","uscfID":1304
+    },
+    {
+        "metricID":326,"lob":"BM","dept_name":"Consumer Care Support","segment":"Care eChat","metricName":"AHT","uscfID":110
+    },
+    {
+        "metricID":12,"lob":"BM","dept_name":"Consumer Care Support","segment":"Care eChat","metricName":"E-ADJ","uscfID":110
+    },
+    {
+        "metricID":13,"lob":"BM","dept_name":"Consumer Care Support","segment":"Care eChat","metricName":"E-AHT","uscfID":110
+    },
+    {
+        "metricID":14,"lob":"BM","dept_name":"Consumer Care Support","segment":"Care eChat","metricName":"FIZZBACK","uscfID":110
+    },
+    {
+        "metricID":15,"lob":"BM","dept_name":"Consumer Care Support","segment":"Care eChat","metricName":"QLTY RESOLVE","uscfID":110
+    },
+    {
+        "metricID":442,"lob":"BM","dept_name":"Loyalty Inbound","segment":"Client Solutions","metricName":"ABT","uscfID":14
+    },
+    {
+        "metricID":327,"lob":"BM","dept_name":"Loyalty Inbound","segment":"Client Solutions","metricName":"AHT","uscfID":14
+    },
+    {
+        "metricID":46,"lob":"BM","dept_name":"Loyalty Inbound","segment":"Client Solutions","metricName":"SR60/NL","uscfID":14
+    },
+    {
+        "metricID":264,"lob":"BM","dept_name":"Loyalty Inbound","segment":"Client Solutions","metricName":"SR/HYBRID","uscfID":14
+    },
+    {
+        "metricID":47,"lob":"BM","dept_name":"Loyalty Inbound","segment":"Client Solutions","metricName":"DF PER CALL","uscfID":14
+    },
+    {
+        "metricID":48,"lob":"BM","dept_name":"Loyalty Inbound","segment":"Client Solutions","metricName":"FCR7_IM","uscfID":14
+    },
+    {
+        "metricID":443,"lob":"BM","dept_name":"Loyalty Inbound","segment":"Client Solutions","metricName":"TRF","uscfID":14
+    },
+    {
+        "metricID":328,"lob":"BM","dept_name":"Loyalty Inbound","segment":"Client Solutions Chinese","metricName":"AHT","uscfID":15
+    },
+    {
+        "metricID":153,"lob":"BM","dept_name":"Loyalty Inbound","segment":"Client Solutions Chinese","metricName":"SR60/NL","uscfID":15
+    },
+    {
+        "metricID":263,"lob":"BM","dept_name":"Loyalty Inbound","segment":"Client Solutions Chinese","metricName":"SR/HYBRID","uscfID":15
+    },
+    {
+        "metricID":44,"lob":"BM","dept_name":"Loyalty Inbound","segment":"Client Solutions Chinese","metricName":"DF PER CALL","uscfID":15
+    },
+    {
+        "metricID":45,"lob":"BM","dept_name":"Loyalty Inbound","segment":"Client Solutions Chinese","metricName":"FCR7_IM","uscfID":15
+    },
+    {
+        "metricID":329,"lob":"BM","dept_name":"Loyalty Inbound","segment":"Virgin Solutions","metricName":"AHT","uscfID":16
+    },
+    {
+        "metricID":49,"lob":"BM","dept_name":"Loyalty Inbound","segment":"Virgin Solutions","metricName":"SR60/NL","uscfID":16
+    },
+    {
+        "metricID":265,"lob":"BM","dept_name":"Loyalty Inbound","segment":"Virgin Solutions","metricName":"SR/HYBRID","uscfID":16
+    },
+    {
+        "metricID":50,"lob":"BM","dept_name":"Loyalty Inbound","segment":"Virgin Solutions","metricName":"DF PER CALL","uscfID":16
+    },
+    {
+        "metricID":51,"lob":"BM","dept_name":"Loyalty Inbound","segment":"Virgin Solutions","metricName":"FCR7_IM","uscfID":16
+    },
+    {
+        "metricID":52,"lob":"BM","dept_name":"Sales","segment":"NCS","metricName":"ABT","uscfID":67
+    },
+    {
+        "metricID":53,"lob":"BM","dept_name":"Sales","segment":"NCS","metricName":"QLTY SCORE","uscfID":67
+    },
+    {
+        "metricID":330,"lob":"BM","dept_name":"Sales","segment":"NCS","metricName":"AHT","uscfID":67
+    },
+    {
+        "metricID":54,"lob":"BM","dept_name":"Sales","segment":"NCS","metricName":"SR60/NL","uscfID":67
+    },
+    {
+        "metricID":266,"lob":"BM","dept_name":"Sales","segment":"NCS","metricName":"SR/HYBRID","uscfID":67
+    },
+    {
+        "metricID":55,"lob":"BM","dept_name":"Sales","segment":"NCS","metricName":"TRF","uscfID":67
+    },
+    {
+        "metricID":56,"lob":"BM","dept_name":"Tech","segment":"Tech L1","metricName":"ABT","uscfID":68
+    },
+    {
+        "metricID":331,"lob":"BM","dept_name":"Tech","segment":"Tech L1","metricName":"AHT","uscfID":68
+    },
+    {
+        "metricID":57,"lob":"BM","dept_name":"Tech","segment":"Tech L1","metricName":"SR60/NL","uscfID":68
+    },
+    {
+        "metricID":267,"lob":"BM","dept_name":"Tech","segment":"Tech L1","metricName":"SR/HYBRID","uscfID":68
+    },
+    {
+        "metricID":58,"lob":"BM","dept_name":"Tech","segment":"Tech L1","metricName":"FCR7","uscfID":68
+    },
+    {
+        "metricID":59,"lob":"BM","dept_name":"Tech","segment":"Tech L1","metricName":"FIZZB","uscfID":68
+    },
+    {
+        "metricID":304,"lob":"BM","dept_name":"Tech","segment":"Tech L1","metricName":"FIZZB","uscfID":68
+    },
+    {
+        "metricID":60,"lob":"BM","dept_name":"Tech","segment":"Tech L1","metricName":"TRF-IMP-LD","uscfID":68
+    },
+    {
+        "metricID":154,"lob":"BRS","dept_name":"Care","segment":"Accessibility","metricName":"ABT","uscfID":72
+    },
+    {
+        "metricID":332,"lob":"BRS","dept_name":"Care","segment":"Accessibility","metricName":"AHT","uscfID":72
+    },
+    {
+        "metricID":155,"lob":"BRS","dept_name":"Care","segment":"Accessibility","metricName":"FCR7","uscfID":72
+    },
+    {
+        "metricID":156,"lob":"BRS","dept_name":"Care","segment":"Accessibility","metricName":"FIZZB","uscfID":72
+    },
+    {
+        "metricID":128,"lob":"BRS","dept_name":"Care","segment":"Atlantic - Care","metricName":"ABT","uscfID":186
+    },
+    {
+        "metricID":333,"lob":"BRS","dept_name":"Care","segment":"Atlantic - Care","metricName":"AHT","uscfID":186
+    },
+    {
+        "metricID":129,"lob":"BRS","dept_name":"Care","segment":"Atlantic - Care","metricName":"FCR7_AT","uscfID":186
+    },
+    {
+        "metricID":130,"lob":"BRS","dept_name":"Care","segment":"Atlantic - Care","metricName":"FIZZB","uscfID":186
+    },
+    {
+        "metricID":305,"lob":"BRS","dept_name":"Care","segment":"Atlantic - Care","metricName":"FIZZB","uscfID":186
+    },
+    {
+        "metricID":131,"lob":"BRS","dept_name":"Care","segment":"Atlantic - Care","metricName":"RGU CLOSE RATE","uscfID":186
+    },
+    {
+        "metricID":132,"lob":"BRS","dept_name":"Care","segment":"Atlantic - Care","metricName":"TRF","uscfID":186
+    },
+    {
+        "metricID":334,"lob":"BRS","dept_name":"Care","segment":"Atlantic - Mentor Group","metricName":"AHT","uscfID":1243
+    },
+    {
+        "metricID":283,"lob":"BRS","dept_name":"Care","segment":"Atlantic - Mentor Group","metricName":"FIZZB","uscfID":1243
+    },
+    {
+        "metricID":157,"lob":"BRS","dept_name":"Care","segment":"Atlantic - Mentor Group","metricName":"RGU CLOSE RATE","uscfID":1243
+    },
+    {
+        "metricID":158,"lob":"BRS","dept_name":"Care","segment":"Atlantic - Mentor Group","metricName":"TRF","uscfID":1243
+    },
+    {
+        "metricID":284,"lob":"BRS","dept_name":"Care","segment":"BHP Sales Chinese","metricName":"ABT","uscfID":73
+    },
+    {
+        "metricID":335,"lob":"BRS","dept_name":"Care","segment":"BHP Sales Chinese","metricName":"AHT","uscfID":73
+    },
+    {
+        "metricID":285,"lob":"BRS","dept_name":"Care","segment":"BHP Sales Chinese","metricName":"SR60/NL","uscfID":73
+    },
+    {
+        "metricID":286,"lob":"BRS","dept_name":"Care","segment":"BHP Sales Chinese","metricName":"FCR7","uscfID":73
+    },
+    {
+        "metricID":287,"lob":"BRS","dept_name":"Care","segment":"BHP Sales Chinese","metricName":"RGU CLOSE RATE","uscfID":73
+    },
+    {
+        "metricID":288,"lob":"BRS","dept_name":"Care","segment":"BHP Sales Chinese","metricName":"UPG_REV-CTS","uscfID":73
+    },
+    {
+        "metricID":159,"lob":"BRS","dept_name":"Care","segment":"BNQ Res Care/Sales/Loyalty","metricName":"ABT","uscfID":127
+    },
+    {
+        "metricID":336,"lob":"BRS","dept_name":"Care","segment":"BNQ Res Care/Sales/Loyalty","metricName":"AHT","uscfID":127
+    },
+    {
+        "metricID":160,"lob":"BRS","dept_name":"Care","segment":"BNQ Res Care/Sales/Loyalty","metricName":"DEACTS","uscfID":127
+    },
+    {
+        "metricID":161,"lob":"BRS","dept_name":"Care","segment":"BNQ Res Care/Sales/Loyalty","metricName":"FIZZB","uscfID":127
+    },
+    {
+        "metricID":162,"lob":"BRS","dept_name":"Care","segment":"BNQ Res Care/Sales/Loyalty","metricName":"RGU CLOSE RATE","uscfID":127
+    },
+    {
+        "metricID":163,"lob":"BRS","dept_name":"Care","segment":"BNQ Res Care/Sales/Loyalty","metricName":"RGU HOUR","uscfID":127
+    },
+    {
+        "metricID":164,"lob":"BRS","dept_name":"Care","segment":"BTV VTAZ","metricName":"ABT","uscfID":74
+    },
+    {
+        "metricID":337,"lob":"BRS","dept_name":"Care","segment":"BTV VTAZ","metricName":"AHT","uscfID":74
+    },
+    {
+        "metricID":165,"lob":"BRS","dept_name":"Care","segment":"BTV VTAZ","metricName":"SR60/NL","uscfID":74
+    },
+    {
+        "metricID":289,"lob":"BRS","dept_name":"Care","segment":"BTV VTAZ","metricName":"SR/HYBRID","uscfID":74
+    },
+    {
+        "metricID":166,"lob":"BRS","dept_name":"Care","segment":"BTV VTAZ","metricName":"FCR7","uscfID":74
+    },
+    {
+        "metricID":167,"lob":"BRS","dept_name":"Care","segment":"BTV VTAZ","metricName":"FIZZB","uscfID":74
+    },
+    {
+        "metricID":168,"lob":"BRS","dept_name":"Care","segment":"BTV VTAZ","metricName":"TRF-IMP-LD","uscfID":74
+    },
+    {
+        "metricID":169,"lob":"BRS","dept_name":"Care","segment":"BTV VTAZ","metricName":"UPG_REV-CTS","uscfID":74
+    },
+    {
+        "metricID":170,"lob":"BRS","dept_name":"Care","segment":"Personal Service Team","metricName":"ABT","uscfID":23
+    },
+    {
+        "metricID":338,"lob":"BRS","dept_name":"Care","segment":"Personal Service Team","metricName":"AHT","uscfID":23
+    },
+    {
+        "metricID":171,"lob":"BRS","dept_name":"Care","segment":"Personal Service Team","metricName":"SR60/NL","uscfID":23
+    },
+    {
+        "metricID":278,"lob":"BRS","dept_name":"Care","segment":"Personal Service Team","metricName":"SR/HYBRID","uscfID":23
+    },
+    {
+        "metricID":172,"lob":"BRS","dept_name":"Care","segment":"Personal Service Team","metricName":"FCR7","uscfID":23
+    },
+    {
+        "metricID":66,"lob":"BRS","dept_name":"Care","segment":"Serve to Sell","metricName":"ABT","uscfID":188
+    },
+    {
+        "metricID":339,"lob":"BRS","dept_name":"Care","segment":"Serve to Sell","metricName":"AHT","uscfID":188
+    },
+    {
+        "metricID":67,"lob":"BRS","dept_name":"Care","segment":"Serve to Sell","metricName":"SR60/NL","uscfID":188
+    },
+    {
+        "metricID":268,"lob":"BRS","dept_name":"Care","segment":"Serve to Sell","metricName":"SR/HYBRID","uscfID":188
+    },
+    {
+        "metricID":68,"lob":"BRS","dept_name":"Care","segment":"Serve to Sell","metricName":"FCR7","uscfID":188
+    },
+    {
+        "metricID":69,"lob":"BRS","dept_name":"Care","segment":"Serve to Sell","metricName":"FIZZB","uscfID":188
+    },
+    {
+        "metricID":306,"lob":"BRS","dept_name":"Care","segment":"Serve to Sell","metricName":"FIZZB","uscfID":188
+    },
+    {
+        "metricID":269,"lob":"BRS","dept_name":"Care","segment":"Serve to Sell","metricName":"RGU CLOSE RATE","uscfID":188
+    },
+    {
+        "metricID":70,"lob":"BRS","dept_name":"Care","segment":"Serve to Sell","metricName":"RGU CLOSE RATE","uscfID":188
+    },
+    {
+        "metricID":71,"lob":"BRS","dept_name":"Care","segment":"Serve to Sell","metricName":"TRF-IMP-LD","uscfID":188
+    },
+    {
+        "metricID":72,"lob":"BRS","dept_name":"Care","segment":"Serve to Sell","metricName":"UPG_REV-CTS","uscfID":188
+    },
+    {
+        "metricID":73,"lob":"BRS","dept_name":"Care","segment":"Trio L1","metricName":"ABT","uscfID":189
+    },
+    {
+        "metricID":340,"lob":"BRS","dept_name":"Care","segment":"Trio L1","metricName":"AHT","uscfID":189
+    },
+    {
+        "metricID":74,"lob":"BRS","dept_name":"Care","segment":"Trio L1","metricName":"SR60/NL","uscfID":189
+    },
+    {
+        "metricID":270,"lob":"BRS","dept_name":"Care","segment":"Trio L1","metricName":"SR/HYBRID","uscfID":189
+    },
+    {
+        "metricID":75,"lob":"BRS","dept_name":"Care","segment":"Trio L1","metricName":"FCR7","uscfID":189
+    },
+    {
+        "metricID":76,"lob":"BRS","dept_name":"Care","segment":"Trio L1","metricName":"FIZZB","uscfID":189
+    },
+    {
+        "metricID":307,"lob":"BRS","dept_name":"Care","segment":"Trio L1","metricName":"FIZZB","uscfID":189
+    },
+    {
+        "metricID":77,"lob":"BRS","dept_name":"Care","segment":"Trio L1","metricName":"TRF-IMP-LD","uscfID":189
+    },
+    {
+        "metricID":78,"lob":"BRS","dept_name":"Care","segment":"Trio L1","metricName":"UPG_REV-CTS","uscfID":189
+    },
+    {
+        "metricID":79,"lob":"BRS","dept_name":"Care","segment":"Trio L2 (Elite)","metricName":"ABT","uscfID":75
+    },
+    {
+        "metricID":341,"lob":"BRS","dept_name":"Care","segment":"Trio L2 (Elite)","metricName":"AHT","uscfID":75
+    },
+    {
+        "metricID":80,"lob":"BRS","dept_name":"Care","segment":"Trio L2 (Elite)","metricName":"SR60/NL","uscfID":75
+    },
+    {
+        "metricID":271,"lob":"BRS","dept_name":"Care","segment":"Trio L2 (Elite)","metricName":"SR/HYBRID","uscfID":75
+    },
+    {
+        "metricID":81,"lob":"BRS","dept_name":"Care","segment":"Trio L2 (Elite)","metricName":"FCR7","uscfID":75
+    },
+    {
+        "metricID":82,"lob":"BRS","dept_name":"Care","segment":"Trio L2 (Elite)","metricName":"FIZZB","uscfID":75
+    },
+    {
+        "metricID":83,"lob":"BRS","dept_name":"Care","segment":"Trio L2 (Elite)","metricName":"TRF-IMP-LD","uscfID":75
+    },
+    {
+        "metricID":84,"lob":"BRS","dept_name":"Care","segment":"Trio L2 (Elite)","metricName":"UPG_REV-CTS","uscfID":75
+    },
+    {
+        "metricID":342,"lob":"BRS","dept_name":"Care","segment":"Trio L3 (Experts)","metricName":"AHT","uscfID":76
+    },
+    {
+        "metricID":140,"lob":"BRS","dept_name":"Care","segment":"Trio L3 (Experts)","metricName":"SR60","uscfID":76
+    },
+    {
+        "metricID":126,"lob":"BRS","dept_name":"Care","segment":"Trio L3 (Experts)","metricName":"FCR7","uscfID":76
+    },
+    {
+        "metricID":173,"lob":"BRS","dept_name":"Care","segment":"Trio L3 (Experts)","metricName":"FIZZB","uscfID":76
+    },
+    {
+        "metricID":308,"lob":"BRS","dept_name":"Care","segment":"Trio L3 (Experts)","metricName":"FIZZB","uscfID":76
+    },
+    {
+        "metricID":127,"lob":"BRS","dept_name":"Care","segment":"Trio L3 (Experts)","metricName":"TRF","uscfID":76
+    },
+    {
+        "metricID":174,"lob":"BRS","dept_name":"Care","segment":"Uno BTV","metricName":"ABT","uscfID":24
+    },
+    {
+        "metricID":343,"lob":"BRS","dept_name":"Care","segment":"Uno BTV","metricName":"AHT","uscfID":24
+    },
+    {
+        "metricID":175,"lob":"BRS","dept_name":"Care","segment":"Uno BTV","metricName":"SR60/NL","uscfID":24
+    },
+    {
+        "metricID":290,"lob":"BRS","dept_name":"Care","segment":"Uno BTV","metricName":"SR/HYBRID","uscfID":24
+    },
+    {
+        "metricID":176,"lob":"BRS","dept_name":"Care","segment":"Uno BTV","metricName":"FCR7","uscfID":24
+    },
+    {
+        "metricID":177,"lob":"BRS","dept_name":"Care","segment":"Uno BTV","metricName":"FIZZB","uscfID":24
+    },
+    {
+        "metricID":178,"lob":"BRS","dept_name":"Care","segment":"Uno BTV","metricName":"TRF-IMP-LD","uscfID":24
+    },
+    {
+        "metricID":179,"lob":"BRS","dept_name":"Care","segment":"Uno BTV","metricName":"UPG_REV-CTS","uscfID":24
+    },
+    {
+        "metricID":344,"lob":"BRS","dept_name":"Care Support","segment":"Care eChat","metricName":"AHT","uscfID":128
+    },
+    {
+        "metricID":61,"lob":"BRS","dept_name":"Care Support","segment":"Care eChat","metricName":"E-ADJ","uscfID":128
+    },
+    {
+        "metricID":62,"lob":"BRS","dept_name":"Care Support","segment":"Care eChat","metricName":"E-AHT","uscfID":128
+    },
+    {
+        "metricID":63,"lob":"BRS","dept_name":"Care Support","segment":"Care eChat","metricName":"FIZZBACK","uscfID":128
+    },
+    {
+        "metricID":64,"lob":"BRS","dept_name":"Care Support","segment":"Care eChat","metricName":"QLTY RESOLVE","uscfID":128
+    },
+    {
+        "metricID":65,"lob":"BRS","dept_name":"Care Support","segment":"Care eChat","metricName":"UPG_REV-CTS","uscfID":128
+    },
+    {
+        "metricID":345,"lob":"BRS","dept_name":"Collection Inbound","segment":"BRS Collection Inbound","metricName":"AHT","uscfID":195
+    },
+    {
+        "metricID":85,"lob":"BRS","dept_name":"Collection Inbound","segment":"BRS Collection Inbound","metricName":"BRS/COLL/HR","uscfID":195
+    },
+    {
+        "metricID":86,"lob":"BRS","dept_name":"Collection Inbound","segment":"BRS Collection Inbound","metricName":"CURE RATE","uscfID":195
+    },
+    {
+        "metricID":87,"lob":"BRS","dept_name":"Collection Inbound","segment":"BRS Collection Inbound","metricName":"PTP","uscfID":195
+    },
+    {
+        "metricID":88,"lob":"BRS","dept_name":"Collection Inbound","segment":"BRS Collection Inbound","metricName":"FIZZB","uscfID":195
+    },
+    {
+        "metricID":309,"lob":"BRS","dept_name":"Collection Inbound","segment":"BRS Collection Inbound","metricName":"FIZZB","uscfID":195
+    },
+    {
+        "metricID":180,"lob":"BRS","dept_name":"Collection Inbound","segment":"Centre for Approval of Service (CAS)","metricName":"QLTY SCORE","uscfID":129
+    },
+    {
+        "metricID":346,"lob":"BRS","dept_name":"Collection Inbound","segment":"Centre for Approval of Service (CAS)","metricName":"AHT","uscfID":129
+    },
+    {
+        "metricID":181,"lob":"BRS","dept_name":"Collection Inbound","segment":"Centre for Approval of Service (CAS)","metricName":"DEP-RATE","uscfID":129
+    },
+    {
+        "metricID":182,"lob":"BRS","dept_name":"Collection Inbound","segment":"Centre for Approval of Service (CAS)","metricName":"FILES HR","uscfID":129
+    },
+    {
+        "metricID":183,"lob":"BRS","dept_name":"Collection Inbound","segment":"Centre for Approval of Service (CAS)","metricName":"REL RATE","uscfID":129
+    },
+    {
+        "metricID":347,"lob":"BRS","dept_name":"Collection Outbound","segment":"BRS Collection Outbound","metricName":"AHT","uscfID":130
+    },
+    {
+        "metricID":184,"lob":"BRS","dept_name":"Collection Outbound","segment":"BRS Collection Outbound","metricName":"BRS/COLL/HR","uscfID":130
+    },
+    {
+        "metricID":185,"lob":"BRS","dept_name":"Collection Outbound","segment":"BRS Collection Outbound","metricName":"PTP","uscfID":130
+    },
+    {
+        "metricID":186,"lob":"BRS","dept_name":"Collection Outbound","segment":"BRS Collection Outbound","metricName":"FIZZB","uscfID":130
+    },
+    {
+        "metricID":133,"lob":"BRS","dept_name":"Loyalty Inbound","segment":"Atlantic - Residential Loyalty","metricName":"ABT","uscfID":134
+    },
+    {
+        "metricID":134,"lob":"BRS","dept_name":"Loyalty Inbound","segment":"Atlantic - Residential Loyalty","metricName":"ADJUST","uscfID":134
+    },
+    {
+        "metricID":348,"lob":"BRS","dept_name":"Loyalty Inbound","segment":"Atlantic - Residential Loyalty","metricName":"AHT","uscfID":134
+    },
+    {
+        "metricID":310,"lob":"BRS","dept_name":"Loyalty Inbound","segment":"Atlantic - Residential Loyalty","metricName":"DEACTS/CALL","uscfID":134
+    },
+    {
+        "metricID":135,"lob":"BRS","dept_name":"Loyalty Inbound","segment":"Atlantic - Residential Loyalty","metricName":"DEACTS","uscfID":134
+    },
+    {
+        "metricID":279,"lob":"BRS","dept_name":"Loyalty Inbound","segment":"Atlantic - Residential Loyalty","metricName":"RGU CLOSE RATE","uscfID":134
+    },
+    {
+        "metricID":136,"lob":"BRS","dept_name":"Loyalty Inbound","segment":"Atlantic - Residential Loyalty","metricName":"RGU CLOSE RATE","uscfID":134
+    },
+    {
+        "metricID":137,"lob":"BRS","dept_name":"Loyalty Inbound","segment":"Loyalty Cross-Serve","metricName":"ABT","uscfID":1194
+    },
+    {
+        "metricID":349,"lob":"BRS","dept_name":"Loyalty Inbound","segment":"Loyalty Cross-Serve","metricName":"AHT","uscfID":1194
+    },
+    {
+        "metricID":187,"lob":"BRS","dept_name":"Loyalty Inbound","segment":"Loyalty Cross-Serve","metricName":"SR60/NL/COM","uscfID":1194
+    },
+    {
+        "metricID":138,"lob":"BRS","dept_name":"Loyalty Inbound","segment":"Loyalty Cross-Serve","metricName":"DF PER CALL","uscfID":1194
+    },
+    {
+        "metricID":139,"lob":"BRS","dept_name":"Loyalty Inbound","segment":"Loyalty Cross-Serve","metricName":"OFFERS ADJ CALLS","uscfID":1194
+    },
+    {
+        "metricID":272,"lob":"BRS","dept_name":"Loyalty Inbound","segment":"Loyalty Cross-Serve","metricName":"RGU CLOSE RATE","uscfID":1194
+    },
+    {
+        "metricID":188,"lob":"BRS","dept_name":"Loyalty Inbound","segment":"Loyalty Cross-Serve","metricName":"RGU CLOSE RATE","uscfID":1194
+    },
+    {
+        "metricID":89,"lob":"BRS","dept_name":"Loyalty Inbound","segment":"Retention L1","metricName":"ABT","uscfID":78
+    },
+    {
+        "metricID":350,"lob":"BRS","dept_name":"Loyalty Inbound","segment":"Retention L1","metricName":"AHT","uscfID":78
+    },
+    {
+        "metricID":90,"lob":"BRS","dept_name":"Loyalty Inbound","segment":"Retention L1","metricName":"SR60/NL","uscfID":78
+    },
+    {
+        "metricID":273,"lob":"BRS","dept_name":"Loyalty Inbound","segment":"Retention L1","metricName":"SR/HYBRID","uscfID":78
+    },
+    {
+        "metricID":91,"lob":"BRS","dept_name":"Loyalty Inbound","segment":"Retention L1","metricName":"OFFERS ADJ CALLS","uscfID":78
+    },
+    {
+        "metricID":274,"lob":"BRS","dept_name":"Loyalty Inbound","segment":"Retention L1","metricName":"RGU CLOSE RATE","uscfID":78
+    },
+    {
+        "metricID":92,"lob":"BRS","dept_name":"Loyalty Inbound","segment":"Retention L1","metricName":"RGU CLOSE RATE","uscfID":78
+    },
+    {
+        "metricID":351,"lob":"BRS","dept_name":"Loyalty Outbound","segment":"BRS Loyalty Outbound","metricName":"AHT","uscfID":197
+    },
+    {
+        "metricID":275,"lob":"BRS","dept_name":"Loyalty Outbound","segment":"BRS Loyalty Outbound","metricName":"SR60/NL","uscfID":197
+    },
+    {
+        "metricID":276,"lob":"BRS","dept_name":"Loyalty Outbound","segment":"BRS Loyalty Outbound","metricName":"SRPC/CNTS","uscfID":197
+    },
+    {
+        "metricID":352,"lob":"BRS","dept_name":"Sales Inbound","segment":"Atlantic - Sales","metricName":"AHT","uscfID":202
+    },
+    {
+        "metricID":189,"lob":"BRS","dept_name":"Sales Inbound","segment":"Atlantic - Sales","metricName":"SALES-M1","uscfID":202
+    },
+    {
+        "metricID":190,"lob":"BRS","dept_name":"Sales Inbound","segment":"Atlantic - Sales","metricName":"RGU CLOSE RATE","uscfID":202
+    },
+    {
+        "metricID":191,"lob":"BRS","dept_name":"Sales Inbound","segment":"Atlantic - Sales","metricName":"RGU HOUR","uscfID":202
+    },
+    {
+        "metricID":353,"lob":"BRS","dept_name":"Sales Inbound","segment":"BRS Sales","metricName":"AHT","uscfID":203
+    },
+    {
+        "metricID":93,"lob":"BRS","dept_name":"Sales Inbound","segment":"BRS Sales","metricName":"SALES-M1","uscfID":203
+    },
+    {
+        "metricID":94,"lob":"BRS","dept_name":"Sales Inbound","segment":"BRS Sales","metricName":"RGU CLOSE RATE","uscfID":203
+    },
+    {
+        "metricID":95,"lob":"BRS","dept_name":"Sales Inbound","segment":"BRS Sales","metricName":"RGU HOUR","uscfID":203
+    },
+    {
+        "metricID":354,"lob":"BRS","dept_name":"Sales Outbound","segment":"BRS Sales Outbound","metricName":"AHT","uscfID":82
+    },
+    {
+        "metricID":96,"lob":"BRS","dept_name":"Sales Outbound","segment":"BRS Sales Outbound","metricName":"SALES-M1","uscfID":82
+    },
+    {
+        "metricID":97,"lob":"BRS","dept_name":"Sales Outbound","segment":"BRS Sales Outbound","metricName":"RGU 100 CNTS","uscfID":82
+    },
+    {
+        "metricID":98,"lob":"BRS","dept_name":"Sales Outbound","segment":"BRS Sales Outbound","metricName":"RGU HOUR","uscfID":82
+    },
+    {
+        "metricID":195,"lob":"BRS","dept_name":"Tech","segment":"Atlantic - Tech Specialty","metricName":"ABT","uscfID":89
+    },
+    {
+        "metricID":355,"lob":"BRS","dept_name":"Tech","segment":"Atlantic - Tech Specialty","metricName":"AHT","uscfID":89
+    },
+    {
+        "metricID":196,"lob":"BRS","dept_name":"Tech","segment":"Atlantic - Tech Specialty","metricName":"FIZZB","uscfID":89
+    },
+    {
+        "metricID":197,"lob":"BRS","dept_name":"Tech","segment":"Atlantic - Tech Specialty","metricName":"TRF","uscfID":89
+    },
+    {
+        "metricID":198,"lob":"BRS","dept_name":"Tech","segment":"Atlantic - Tech Trio","metricName":"ABT","uscfID":90
+    },
+    {
+        "metricID":356,"lob":"BRS","dept_name":"Tech","segment":"Atlantic - Tech Trio","metricName":"AHT","uscfID":90
+    },
+    {
+        "metricID":199,"lob":"BRS","dept_name":"Tech","segment":"Atlantic - Tech Trio","metricName":"FIZZB","uscfID":90
+    },
+    {
+        "metricID":311,"lob":"BRS","dept_name":"Tech","segment":"Atlantic - Tech Trio","metricName":"FIZZB","uscfID":90
+    },
+    {
+        "metricID":200,"lob":"BRS","dept_name":"Tech","segment":"Atlantic - Tech Trio","metricName":"TRF","uscfID":90
+    },
+    {
+        "metricID":201,"lob":"BRS","dept_name":"Tech","segment":"Atlantic - Tier 2 Tech Support","metricName":"AHT","uscfID":1265
+    },
+    {
+        "metricID":357,"lob":"BRS","dept_name":"Tech","segment":"Atlantic - Tier 2 Tech Support","metricName":"AHT","uscfID":1265
+    },
+    {
+        "metricID":202,"lob":"BRS","dept_name":"Tech","segment":"Atlantic - Tier 2 Tech Support","metricName":"FIZZB","uscfID":1265
+    },
+    {
+        "metricID":203,"lob":"BRS","dept_name":"Tech","segment":"Atlantic - Tier 2 Tech Support","metricName":"TRF","uscfID":1265
+    },
+    {
+        "metricID":204,"lob":"BRS","dept_name":"Tech","segment":"BNQ Res Internet & TV Helpdesk","metricName":"ABT","uscfID":144
+    },
+    {
+        "metricID":358,"lob":"BRS","dept_name":"Tech","segment":"BNQ Res Internet & TV Helpdesk","metricName":"AHT","uscfID":144
+    },
+    {
+        "metricID":205,"lob":"BRS","dept_name":"Tech","segment":"BNQ Res Internet & TV Helpdesk","metricName":"NOT-RDY","uscfID":144
+    },
+    {
+        "metricID":206,"lob":"BRS","dept_name":"Tech","segment":"BNQ Res Internet & TV Helpdesk","metricName":"ADH","uscfID":144
+    },
+    {
+        "metricID":207,"lob":"BRS","dept_name":"Tech","segment":"BNQ Res Internet & TV Helpdesk","metricName":"TRF","uscfID":144
+    },
+    {
+        "metricID":208,"lob":"BRS","dept_name":"Tech","segment":"BNQ Res Repair","metricName":"ABT","uscfID":145
+    },
+    {
+        "metricID":359,"lob":"BRS","dept_name":"Tech","segment":"BNQ Res Repair","metricName":"AHT","uscfID":145
+    },
+    {
+        "metricID":209,"lob":"BRS","dept_name":"Tech","segment":"BNQ Res Repair","metricName":"FIZZB","uscfID":145
+    },
+    {
+        "metricID":210,"lob":"BRS","dept_name":"Tech","segment":"BNQ Res Repair","metricName":"NOT-RDY","uscfID":145
+    },
+    {
+        "metricID":211,"lob":"BRS","dept_name":"Tech","segment":"BNQ Res Repair","metricName":"ADH","uscfID":145
+    },
+    {
+        "metricID":212,"lob":"BRS","dept_name":"Tech","segment":"BNQ Res Repair","metricName":"TRF","uscfID":145
+    },
+    {
+        "metricID":105,"lob":"BRS","dept_name":"Tech","segment":"BRS Tech L1","metricName":"ABT","uscfID":1276
+    },
+    {
+        "metricID":360,"lob":"BRS","dept_name":"Tech","segment":"BRS Tech L1","metricName":"AHT","uscfID":1276
+    },
+    {
+        "metricID":106,"lob":"BRS","dept_name":"Tech","segment":"BRS Tech L1","metricName":"SR60/NL","uscfID":1276
+    },
+    {
+        "metricID":277,"lob":"BRS","dept_name":"Tech","segment":"BRS Tech L1","metricName":"SR/HYBRID","uscfID":1276
+    },
+    {
+        "metricID":107,"lob":"BRS","dept_name":"Tech","segment":"BRS Tech L1","metricName":"FCR7","uscfID":1276
+    },
+    {
+        "metricID":108,"lob":"BRS","dept_name":"Tech","segment":"BRS Tech L1","metricName":"FIZZB","uscfID":1276
+    },
+    {
+        "metricID":312,"lob":"BRS","dept_name":"Tech","segment":"BRS Tech L1","metricName":"FIZZB","uscfID":1276
+    },
+    {
+        "metricID":109,"lob":"BRS","dept_name":"Tech","segment":"BRS Tech L1","metricName":"TRF-IMP-LD","uscfID":1276
+    },
+    {
+        "metricID":110,"lob":"BRS","dept_name":"Tech","segment":"BRS Tech L1","metricName":"UPG_REV-CTS","uscfID":1276
+    },
+    {
+        "metricID":213,"lob":"BRS","dept_name":"Tech","segment":"BRS Tech L3","metricName":"ABT","uscfID":39
+    },
+    {
+        "metricID":361,"lob":"BRS","dept_name":"Tech","segment":"BRS Tech L3","metricName":"AHT","uscfID":39
+    },
+    {
+        "metricID":214,"lob":"BRS","dept_name":"Tech","segment":"BRS Tech L3","metricName":"SR60/NL","uscfID":39
+    },
+    {
+        "metricID":291,"lob":"BRS","dept_name":"Tech","segment":"BRS Tech L3","metricName":"SR/HYBRID","uscfID":39
+    },
+    {
+        "metricID":215,"lob":"BRS","dept_name":"Tech","segment":"BRS Tech L3","metricName":"FCR7","uscfID":39
+    },
+    {
+        "metricID":216,"lob":"BRS","dept_name":"Tech","segment":"BRS Tech L3","metricName":"TRF-IMP-LD","uscfID":39
+    },
+    {
+        "metricID":217,"lob":"BRS","dept_name":"Tech","segment":"BRS Tech L3","metricName":"UPG_REV-CTS","uscfID":39
+    },
+    {
+        "metricID":218,"lob":"BRS","dept_name":"Tech","segment":"BTV Night Team","metricName":"ABT","uscfID":92
+    },
+    {
+        "metricID":362,"lob":"BRS","dept_name":"Tech","segment":"BTV Night Team","metricName":"AHT","uscfID":92
+    },
+    {
+        "metricID":219,"lob":"BRS","dept_name":"Tech","segment":"BTV Night Team","metricName":"SR60/NL","uscfID":92
+    },
+    {
+        "metricID":292,"lob":"BRS","dept_name":"Tech","segment":"BTV Night Team","metricName":"SR/HYBRID","uscfID":92
+    },
+    {
+        "metricID":220,"lob":"BRS","dept_name":"Tech","segment":"BTV Night Team","metricName":"FCR7","uscfID":92
+    },
+    {
+        "metricID":221,"lob":"BRS","dept_name":"Tech","segment":"BTV Night Team","metricName":"FIZZB","uscfID":92
+    },
+    {
+        "metricID":222,"lob":"BRS","dept_name":"Tech","segment":"BTV Night Team","metricName":"TRF-IMP-LD","uscfID":92
+    },
+    {
+        "metricID":223,"lob":"BRS","dept_name":"Tech","segment":"BTV Night Team","metricName":"UPG_REV-CTS","uscfID":92
+    },
+    {
+        "metricID":99,"lob":"BRS","dept_name":"Tech Support","segment":"BackOffice Group 10 OFA","metricName":"QLTY SCORE","uscfID":147
+    },
+    {
+        "metricID":363,"lob":"BRS","dept_name":"Tech Support","segment":"BackOffice Group 10 OFA","metricName":"AHT","uscfID":147
+    },
+    {
+        "metricID":100,"lob":"BRS","dept_name":"Tech Support","segment":"BackOffice Group 10 OFA","metricName":"BO_AHT","uscfID":147
+    },
+    {
+        "metricID":101,"lob":"BRS","dept_name":"Tech Support","segment":"BackOffice Group 10 OFA","metricName":"BO_ATC","uscfID":147
+    },
+    {
+        "metricID":102,"lob":"BRS","dept_name":"Tech Support","segment":"BackOffice Group 11 Spec","metricName":"QLTY SCORE","uscfID":42
+    },
+    {
+        "metricID":364,"lob":"BRS","dept_name":"Tech Support","segment":"BackOffice Group 11 Spec","metricName":"AHT","uscfID":42
+    },
+    {
+        "metricID":103,"lob":"BRS","dept_name":"Tech Support","segment":"BackOffice Group 11 Spec","metricName":"BO_AHT","uscfID":42
+    },
+    {
+        "metricID":104,"lob":"BRS","dept_name":"Tech Support","segment":"BackOffice Group 11 Spec","metricName":"BO_ATC","uscfID":42
+    },
+    {
+        "metricID":192,"lob":"BRS","dept_name":"Tech Support","segment":"BackOffice High Speed Center","metricName":"QLTY SCORE","uscfID":94
+    },
+    {
+        "metricID":365,"lob":"BRS","dept_name":"Tech Support","segment":"BackOffice High Speed Center","metricName":"AHT","uscfID":94
+    },
+    {
+        "metricID":193,"lob":"BRS","dept_name":"Tech Support","segment":"BackOffice High Speed Center","metricName":"BO_AHT","uscfID":94
+    },
+    {
+        "metricID":194,"lob":"BRS","dept_name":"Tech Support","segment":"BackOffice High Speed Center","metricName":"BO_ATC","uscfID":94
+    },
+    {
+        "metricID":366,"lob":"MTS WLN","dept_name":"Tech","segment":"MTS WLN - Tech L1","metricName":"AHT","uscfID":1506
+    },
+    {
+        "metricID":293,"lob":"MTS WLN","dept_name":"Tech","segment":"MTS WLN - Tech L1","metricName":"AHT","uscfID":1506
+    },
+    {
+        "metricID":294,"lob":"MTS WLN","dept_name":"Tech","segment":"MTS WLN - Tech L1","metricName":"OCC","uscfID":1506
+    },
+    {
+        "metricID":295,"lob":"MTS WLN","dept_name":"Tech","segment":"MTS WLN - Tech L1","metricName":"TRF","uscfID":1506
+    },
+    {
+        "metricID":224,"lob":"SB","dept_name":"Care","segment":"Atlantic - SB","metricName":"ABT","uscfID":1205
+    },
+    {
+        "metricID":367,"lob":"SB","dept_name":"Care","segment":"Atlantic - SB","metricName":"AHT","uscfID":1205
+    },
+    {
+        "metricID":225,"lob":"SB","dept_name":"Care","segment":"Atlantic - SB","metricName":"DEACTS","uscfID":1205
+    },
+    {
+        "metricID":226,"lob":"SB","dept_name":"Care","segment":"Atlantic - SB","metricName":"RGU CLOSE RATE","uscfID":1205
+    },
+    {
+        "metricID":227,"lob":"SB","dept_name":"Care","segment":"Atlantic - SB","metricName":"RGU HOUR","uscfID":1205
+    },
+    {
+        "metricID":228,"lob":"SB","dept_name":"Care","segment":"BNQ SB Care/Sales/Loyalty","metricName":"ABT","uscfID":220
+    },
+    {
+        "metricID":368,"lob":"SB","dept_name":"Care","segment":"BNQ SB Care/Sales/Loyalty","metricName":"AHT","uscfID":220
+    },
+    {
+        "metricID":229,"lob":"SB","dept_name":"Care","segment":"BNQ SB Care/Sales/Loyalty","metricName":"RGU CLOSE RATE","uscfID":220
+    },
+    {
+        "metricID":230,"lob":"SB","dept_name":"Care","segment":"BNQ SB Care/Sales/Loyalty","metricName":"RGU HOUR","uscfID":220
+    },
+    {
+        "metricID":231,"lob":"SB","dept_name":"Care","segment":"BNQ SB Care/Sales/Loyalty","metricName":"ADH","uscfID":220
+    },
+    {
+        "metricID":232,"lob":"SB","dept_name":"Care","segment":"BNQ SB Care/Sales/Loyalty","metricName":"TRF","uscfID":220
+    },
+    {
+        "metricID":111,"lob":"SB","dept_name":"Care","segment":"Care Services","metricName":"ABT","uscfID":47
+    },
+    {
+        "metricID":369,"lob":"SB","dept_name":"Care","segment":"Care Services","metricName":"AHT","uscfID":47
+    },
+    {
+        "metricID":112,"lob":"SB","dept_name":"Care","segment":"Care Services","metricName":"FCR7_SB","uscfID":47
+    },
+    {
+        "metricID":113,"lob":"SB","dept_name":"Care","segment":"Care Services","metricName":"FIZZB","uscfID":47
+    },
+    {
+        "metricID":313,"lob":"SB","dept_name":"Care","segment":"Care Services","metricName":"FIZZB","uscfID":47
+    },
+    {
+        "metricID":114,"lob":"SB","dept_name":"Care","segment":"Care Services","metricName":"Net-REV-Cont","uscfID":47
+    },
+    {
+        "metricID":296,"lob":"SB","dept_name":"Care","segment":"Care Services","metricName":"RGU CLOSE RATE","uscfID":47
+    },
+    {
+        "metricID":115,"lob":"SB","dept_name":"Care","segment":"Care Services","metricName":"RGU CLOSE RATE","uscfID":47
+    },
+    {
+        "metricID":116,"lob":"SB","dept_name":"Care","segment":"Care Services","metricName":"TRF","uscfID":47
+    },
+    {
+        "metricID":117,"lob":"SB","dept_name":"Loyalty Inbound","segment":"Loyalty","metricName":"ABT","uscfID":48
+    },
+    {
+        "metricID":370,"lob":"SB","dept_name":"Loyalty Inbound","segment":"Loyalty","metricName":"AHT","uscfID":48
+    },
+    {
+        "metricID":314,"lob":"SB","dept_name":"Loyalty Inbound","segment":"Loyalty","metricName":"DEACTS/CALL","uscfID":48
+    },
+    {
+        "metricID":118,"lob":"SB","dept_name":"Loyalty Inbound","segment":"Loyalty","metricName":"DEACTS","uscfID":48
+    },
+    {
+        "metricID":119,"lob":"SB","dept_name":"Loyalty Inbound","segment":"Loyalty","metricName":"FCR7_SB","uscfID":48
+    },
+    {
+        "metricID":120,"lob":"SB","dept_name":"Loyalty Inbound","segment":"Loyalty","metricName":"Net-REV-Cont","uscfID":48
+    },
+    {
+        "metricID":125,"lob":"SB","dept_name":"Loyalty Inbound","segment":"Loyalty","metricName":"RGU CLOSE RATE","uscfID":48
+    },
+    {
+        "metricID":371,"lob":"SB","dept_name":"Sales","segment":"SB Sales","metricName":"AHT","uscfID":49
+    },
+    {
+        "metricID":233,"lob":"SB","dept_name":"Sales","segment":"SB Sales","metricName":"SR60/NL","uscfID":49
+    },
+    {
+        "metricID":234,"lob":"SB","dept_name":"Sales","segment":"SB Sales","metricName":"RGU CLOSE RATE","uscfID":49
+    },
+    {
+        "metricID":235,"lob":"SB","dept_name":"Sales","segment":"SB Sales","metricName":"RGU HOUR","uscfID":49
+    },
+    {
+        "metricID":236,"lob":"SB","dept_name":"Tech","segment":"BNQ SB Internet Help Desk","metricName":"ABT","uscfID":1213
+    },
+    {
+        "metricID":372,"lob":"SB","dept_name":"Tech","segment":"BNQ SB Internet Help Desk","metricName":"AHT","uscfID":1213
+    },
+    {
+        "metricID":237,"lob":"SB","dept_name":"Tech","segment":"BNQ SB Internet Help Desk","metricName":"NOT-RDY","uscfID":1213
+    },
+    {
+        "metricID":238,"lob":"SB","dept_name":"Tech","segment":"BNQ SB Internet Help Desk","metricName":"ADH","uscfID":1213
+    },
+    {
+        "metricID":239,"lob":"SB","dept_name":"Tech","segment":"BNQ SB Internet Help Desk","metricName":"TRF","uscfID":1213
+    },
+    {
+        "metricID":121,"lob":"SB","dept_name":"Tech","segment":"Tech Outsourcing","metricName":"ABT","uscfID":1204
+    },
+    {
+        "metricID":373,"lob":"SB","dept_name":"Tech","segment":"Tech Outsourcing","metricName":"AHT","uscfID":1204
+    },
+    {
+        "metricID":122,"lob":"SB","dept_name":"Tech","segment":"Tech Outsourcing","metricName":"FCR7_SB","uscfID":1204
+    },
+    {
+        "metricID":123,"lob":"SB","dept_name":"Tech","segment":"Tech Outsourcing","metricName":"FIZZB","uscfID":1204
+    },
+    {
+        "metricID":315,"lob":"SB","dept_name":"Tech","segment":"Tech Outsourcing","metricName":"FIZZB","uscfID":1204
+    },
+    {
+        "metricID":124,"lob":"SB","dept_name":"Tech","segment":"Tech Outsourcing","metricName":"TRF","uscfID":1204}
+]

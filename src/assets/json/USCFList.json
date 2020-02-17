@@ -1,0 +1,1370 @@
+[
+    {
+        "lob": "BM",
+        "subs": [
+            {
+                "dept_name": "BDI",
+                "subs": [
+                    {
+                        "segment": "Fulfillment Representative",
+                        "uscfID": 21
+                    }
+                ]
+            },
+            {
+                "dept_name": "Bell Mobility",
+                "subs": [
+                    {
+                        "segment": "Chat Representative",
+                        "uscfID": 69
+                    }
+                ]
+            },
+            {
+                "dept_name": "Business Care",
+                "subs": [
+                    {
+                        "segment": "Enterprise",
+                        "uscfID": 104
+                    },
+                    {
+                        "segment": "Help Desk",
+                        "uscfID": 53
+                    },
+                    {
+                        "segment": "Medium",
+                        "uscfID": 9
+                    },
+                    {
+                        "segment": "Small Business",
+                        "uscfID": 10
+                    }
+                ]
+            },
+            {
+                "dept_name": "Business Care Support",
+                "subs": [
+                    {
+                        "segment": "Adjustment Compliance",
+                        "uscfID": 105
+                    },
+                    {
+                        "segment": "Business Care Support Trainers/QAA/Perf",
+                        "uscfID": 164
+                    },
+                    {
+                        "segment": "Contract Analyst",
+                        "uscfID": 106
+                    },
+                    {
+                        "segment": "Contract Desk",
+                        "uscfID": 55
+                    },
+                    {
+                        "segment": "Contract Implementation",
+                        "uscfID": 165
+                    },
+                    {
+                        "segment": "Legacy Corporate",
+                        "uscfID": 166
+                    }
+                ]    
+            },
+            {
+                "dept_name": "Campaign & Pricing",
+                "subs": [
+                    {
+                        "segment": "Campaign & Pricing",
+                        "uscfID": 121
+                    }
+                ]
+            },
+            {
+                "dept_name": "Care",
+                "subs": [
+                    {
+                        "segment": "Executive Care",
+                        "uscfID": 1288
+                    },
+                    {
+                        "segment": "Trio L1",
+                        "uscfID": 1311
+                    }
+                ]
+            },
+            {
+                "dept_name": "Care Support",
+                "subs": [
+                    {
+                        "segment": "Care Support Trainers/QAA/Perf",
+                        "uscfID": 1450
+                    },
+                    {
+                        "segment": "Training Delivery & Design",
+                        "uscfID": 1551
+                    }
+                ]
+            },
+            {
+                "dept_name": "Collection Inbound",
+                "subs": [
+                    {
+                        "segment": "Corporate Collection",
+                        "uscfID": 107
+                    },
+                    {
+                        "segment": "Fraud Prevention",
+                        "uscfID": 167
+                    },
+                    {
+                        "segment": "Mobility Collection Inbound",
+                        "uscfID": 168
+                    },
+                    {
+                        "segment": "Virgin Collection Inbound",
+                        "uscfID": 57
+                    }
+                ]
+            },
+            {
+                "dept_name": "Collection Outbound",
+                "subs": [
+                    {
+                        "segment": "Mobility Collection Outbound",
+                        "uscfID": 169
+                    }
+                ]
+            },
+            {
+                "dept_name": "Collection Support",
+                "subs": [
+                    {
+                        "segment": "Agency Management",
+                        "uscfID": 1542
+                    },
+                    {
+                        "segment": "Mobility Agency Commission",
+                        "uscfID": 1267
+                    },
+                    {
+                        "segment": "Mobility Equifax",
+                        "uscfID": 1558
+                    },
+                    {
+                        "segment": "Virgin Agency Commission",
+                        "uscfID": 1488
+                    }
+                ]    
+            },
+            {
+                "dept_name": "Consumer Care",
+                "subs": [
+                    {
+                        "segment": "BM & Solo Prepaid",
+                        "uscfID": 58
+                    },
+                    {
+                        "segment": "Consumer",
+                        "uscfID": 59
+                    },
+                    {
+                        "segment": "Mobility Serve to Sell",
+                        "uscfID": 1544
+                    },
+                    {
+                        "segment": "PC Mobile",
+                        "uscfID": 170
+                    },
+                    {
+                        "segment": "Personal Service Team",
+                        "uscfID": 171
+                    },
+                    {
+                        "segment": "Virgin Postpaid",
+                        "uscfID": 109
+                    },
+                    {
+                        "segment": "Virgin Serve to Sell",
+                        "uscfID": 1304
+                    }
+                ]    
+            },
+            {
+                "dept_name": "Consumer Care Support",
+                "subs": [
+                    {
+                        "segment": "Business Process & Insight",
+                        "uscfID": 12
+                    },
+                    {
+                        "segment": "Care eChat",
+                        "uscfID": 110
+                    },
+                    {
+                        "segment": "Consumer Care BRS Support Trainers/QAA/Perf",
+                        "uscfID": 111
+                    },
+                    {
+                        "segment": "Consumer Care Support Trainers/QAA/Perf",
+                        "uscfID": 172
+                    },
+                    {
+                        "segment": "Offline Care",
+                        "uscfID": 112
+                    },
+                    {
+                        "segment": "Training Delivery & Design",
+                        "uscfID": 61
+                    },
+                    {
+                        "segment": "Virgin Channel Support",
+                        "uscfID": 13
+                    }
+                ]    
+            },
+            {
+                "dept_name": "Corporate Stores",
+                "subs": [
+                    {
+                        "segment": "Corporate Stores",
+                        "uscfID": 184
+                    }
+                ]    
+            },
+            {
+                "dept_name": "Hardware Solution",
+                "subs": [
+                    {
+                        "segment": "Hardware Solution",
+                        "uscfID": 122
+                    }
+                ]    
+            },
+            {
+                "dept_name": "HR",
+                "subs": [
+                    {
+                        "segment": "Corporate HR",
+                        "uscfID": 1560
+                    }
+                ]    
+            },
+            {
+                "dept_name": "Inter-Carrier Relation",
+                "subs": [
+                    {
+                        "segment": "Comcentric",
+                        "uscfID": 19
+                    }
+                ]    
+            },
+            {
+                "dept_name": "Loyalty Inbound",
+                "subs": [
+                    {
+                        "segment": "Client Solutions",
+                        "uscfID": 14
+                    },
+                    {
+                        "segment": "Client Solutions Chinese",
+                        "uscfID": 15
+                    },
+                    {
+                        "segment": "Virgin Solutions",
+                        "uscfID": 16
+                    }
+                ]    
+            },
+            {
+                "dept_name": "Loyalty Outbound",
+                "subs": [
+                    {
+                        "segment": "BRS Loyalty Outbound",
+                        "uscfID": 1490
+                    },
+                    {
+                        "segment": "Mobility Loyalty Outbound",
+                        "uscfID": 173
+                    },
+                    {
+                        "segment": "Virgin Loyalty Outbound",
+                        "uscfID": 62
+                    }
+                ]    
+            },
+            {
+                "dept_name": "Loyalty Support",
+                "subs": [
+                    {
+                        "segment": "Loyalty Programs",
+                        "uscfID": 174
+                    },
+                    {
+                        "segment": "Loyalty Support Trainers/QAA/Perf",
+                        "uscfID": 175
+                    },
+                    {
+                        "segment": "Mobility Retention",
+                        "uscfID": 63
+                    },
+                    {
+                        "segment": "Residential Retention",
+                        "uscfID": 64
+                    }
+                ]    
+            },
+            {
+                "dept_name": "Marketing Operations",
+                "subs": [
+                    {
+                        "segment": "CDMA",
+                        "uscfID": 1555
+                    },
+                    {
+                        "segment": "Marketing Operations",
+                        "uscfID": 70
+                    }
+                ]    
+            },
+            {
+                "dept_name": "Mobile Devices and Logistics ",
+                "subs": [
+                    {
+                        "segment": "Mobile Devices and Logistics ",
+                        "uscfID": 71
+                    }
+                ]    
+            },
+            {
+                "dept_name": "Project & Process Delivery",
+                "subs": [
+                    {
+                        "segment": "Billing & On-Boarding",
+                        "uscfID": 925
+                    },
+                    {
+                        "segment": "Design and Delivery",
+                        "uscfID": 929
+                    },
+                    {
+                        "segment": "Desktop and Process Optimization",
+                        "uscfID": 65
+                    },
+                    {
+                        "segment": "Opex for Capex",
+                        "uscfID": 1188
+                    },
+                    {
+                        "segment": "Take to Market",
+                        "uscfID": 113
+                    },
+                    {
+                        "segment": "Tech Support & Device Mgmt",
+                        "uscfID": 1293
+                    },
+                    {
+                        "segment": "VP Project & Process Delivery",
+                        "uscfID": 1209
+                    }
+                ]    
+            },
+            {
+                "dept_name": "Sales",
+                "subs": [
+                    {
+                        "segment": "Blend PPD",
+                        "uscfID": 183
+                    },
+                    {
+                        "segment": "Mobility Consumer Direct Sales",
+                        "uscfID": 123
+                    },
+                    {
+                        "segment": "NCS",
+                        "uscfID": 67
+                    },
+                    {
+                        "segment": "NCS Corp",
+                        "uscfID": 114
+                    },
+                    {
+                        "segment": "Virgin Consumer Direct Sales",
+                        "uscfID": 471
+                    }
+                ]    
+            },
+            {
+                "dept_name": "Sales Support",
+                "subs": [
+                    {
+                        "segment": "Sales Planning & Support",
+                        "uscfID": 115
+                    },
+                    {
+                        "segment": "Sales Support Trainers/QAA/Perf",
+                        "uscfID": 177
+                    },
+                    {
+                        "segment": "Wireless Number Portability",
+                        "uscfID": 116
+                    }
+                ]    
+            },
+            {
+                "dept_name": "Small Business Sales",
+                "subs": [
+                    {
+                        "segment": "Small Medium Business",
+                        "uscfID": 124
+                    },
+                    {
+                        "segment": "SMB_NotSegmented",
+                        "uscfID": 20
+                    }
+                ]    
+            },
+            {
+                "dept_name": "Strategy & BI",
+                "subs": [
+                    {
+                        "segment": "BI Campaign Insights",
+                        "uscfID": 117
+                    },
+                    {
+                        "segment": "BI Data Science",
+                        "uscfID": 1553
+                    },
+                    {
+                        "segment": "Business Intelligence",
+                        "uscfID": 178
+                    },
+                    {
+                        "segment": "Grad Leadership Program",
+                        "uscfID": 118
+                    },
+                    {
+                        "segment": "Operational Planning & Technology",
+                        "uscfID": 1183
+                    },
+                    {
+                        "segment": "Vendor Management",
+                        "uscfID": 18
+                    },
+                    {
+                        "segment": "WFM",
+                        "uscfID": 1237
+                    },
+                    {
+                        "segment": "Workforce Management",
+                        "uscfID": 120
+                    }
+                ]    
+            },
+            {
+                "dept_name": "Tech",
+                "subs": [
+                    {
+                        "segment": "BRS TECH L1",
+                        "uscfID": 1277
+                    },
+                    {
+                        "segment": "Subsidized Accounts",
+                        "uscfID": 180
+                    },
+                    {
+                        "segment": "Tech L1",
+                        "uscfID": 68
+                    }
+                ]    
+            },
+            {
+                "dept_name": "Tech Support",
+                "subs": [
+                    {
+                        "segment": "BackOffice High Speed Center",
+                        "uscfID": 1545
+                    },
+                    {
+                        "segment": "Support & Admin Rep",
+                        "uscfID": 181
+                    },
+                    {
+                        "segment": "Tech Support Trainers/QAA/Perf",
+                        "uscfID": 182
+                    }
+                ]
+            }
+        ]    
+    },
+    {
+        "lob": "BRS",
+        "subs": [
+            {
+                "dept_name": "Assisted Install",
+                "subs": [
+                    {
+                        "segment": "Administration",
+                        "uscfID": 150
+                    },
+                    {
+                        "segment": "Atlantic - Vendor Management",
+                        "uscfID": 1173
+                    },
+                    {
+                        "segment": "Load",
+                        "uscfID": 1164
+                    },
+                    {
+                        "segment": "Rescheduling Representative",
+                        "uscfID": 217
+                    },
+                    {
+                        "segment": "Retention Representative",
+                        "uscfID": 151
+                    },
+                    {
+                        "segment": "STS-Reschedule",
+                        "uscfID": 152
+                    },
+                    {
+                        "segment": "Support Trainers/QAA/Perf",
+                        "uscfID": 96
+                    },
+                    {
+                        "segment": "Symmetry",
+                        "uscfID": 1157
+                    },
+                    {
+                        "segment": "Tech Cancel",
+                        "uscfID": 1158
+                    },
+                    {
+                        "segment": "Vendor Management",
+                        "uscfID": 153
+                    },
+                    {
+                        "segment": "Virgin",
+                        "uscfID": 1165
+                    },
+                    {
+                        "segment": "Workforce Management",
+                        "uscfID": 1159
+                    }
+                ]    
+            },
+            {
+                "dept_name": "Bell Residential Services",
+                "subs": [
+                    {
+                        "segment": "Door to Door",
+                        "uscfID": 154
+                    },
+                    {
+                        "segment": "eChat",
+                        "uscfID": 155
+                    },
+                    {
+                        "segment": "Upsell",
+                        "uscfID": 1538
+                    }
+                ]    
+            },
+            {
+                "dept_name": "Care",
+                "subs": [
+                    {
+                        "segment": "Accessibility",
+                        "uscfID": 72
+                    },
+                    {
+                        "segment": "Atlantic - Care",
+                        "uscfID": 186
+                    },
+                    {
+                        "segment": "Atlantic - Care Home Security",
+                        "uscfID": 1319
+                    },
+                    {
+                        "segment": "Atlantic - Mentor Group",
+                        "uscfID": 1243
+                    },
+                    {
+                        "segment": "BHP Sales Chinese",
+                        "uscfID": 73
+                    },
+                    {
+                        "segment": "BNQ Res Care/Sales/Loyalty",
+                        "uscfID": 127
+                    },
+                    {
+                        "segment": "BTV VTAZ",
+                        "uscfID": 74
+                    },
+                    {
+                        "segment": "Executive Care",
+                        "uscfID": 187
+                    },
+                    {
+                        "segment": "Personal Service Team",
+                        "uscfID": 23
+                    },
+                    {
+                        "segment": "Serve to Sell",
+                        "uscfID": 188
+                    },
+                    {
+                        "segment": "Trio L1",
+                        "uscfID": 189
+                    },
+                    {
+                        "segment": "Trio L2 (Elite)",
+                        "uscfID": 75
+                    },
+                    {
+                        "segment": "Trio L3 (Experts)",
+                        "uscfID": 76
+                    },
+                    {
+                        "segment": "Uno BTV",
+                        "uscfID": 24
+                    }
+                ]    
+            },
+            {
+                "dept_name": "Care Support",
+                "subs": [
+                    {
+                        "segment": "Atlantic - Care & Tech Support Trainers/QAA/Perf",
+                        "uscfID": 191
+                    },
+                    {
+                        "segment": "Atlantic - Escalation Team",
+                        "uscfID": 192
+                    },
+                    {
+                        "segment": "Atlantic - Training Delivery & Design",
+                        "uscfID": 1244
+                    },
+                    {
+                        "segment": "BNQ Res Support Trainers/QAA/Perf",
+                        "uscfID": 25
+                    },
+                    {
+                        "segment": "BNQ WFM",
+                        "uscfID": 193
+                    },
+                    {
+                        "segment": "BRS Digital Resolution Team",
+                        "uscfID": 1541
+                    },
+                    {
+                        "segment": "Business Process & Insight",
+                        "uscfID": 26
+                    },
+                    {
+                        "segment": "Care eChat",
+                        "uscfID": 128
+                    },
+                    {
+                        "segment": "Care Support Trainers/QAA/Perf",
+                        "uscfID": 77
+                    },
+                    {
+                        "segment": "Care Support Trainers/QAA/Perf - Sales",
+                        "uscfID": 27
+                    },
+                    {
+                        "segment": "Social Media",
+                        "uscfID": 28
+                    },
+                    {
+                        "segment": "Training Delivery & Design",
+                        "uscfID": 194
+                    }
+                ]    
+            },
+            {
+                "dept_name": "Collection Inbound",
+                "subs": [
+                    {
+                        "segment": "Atlantic - Collection Inbound",
+                        "uscfID": 1220
+                    },
+                    {
+                        "segment": "BRS Collection Inbound",
+                        "uscfID": 195
+                    },
+                    {
+                        "segment": "Centre for Approval of Service (CAS)",
+                        "uscfID": 129
+                    },
+                    {
+                        "segment": "Fraud Prevention",
+                        "uscfID": 1543
+                    },
+                    {
+                        "segment": "SAT",
+                        "uscfID": 29
+                    }
+                ]    
+            },
+            {
+                "dept_name": "Collection Outbound",
+                "subs": [
+                    {
+                        "segment": "BRS Collection Outbound",
+                        "uscfID": 130
+                    }
+                ]    
+            },
+            {
+                "dept_name": "Collection Support",
+                "subs": [
+                    {
+                        "segment": "Agency Management",
+                        "uscfID": 131
+                    },
+                    {
+                        "segment": "Atlantic - Revenue Recovery Business",
+                        "uscfID": 1156
+                    },
+                    {
+                        "segment": "Atlantic - Revenue Recovery Consumer",
+                        "uscfID": 1221
+                    },
+                    {
+                        "segment": "BNQ Agency Commission",
+                        "uscfID": 1232
+                    },
+                    {
+                        "segment": "CLARS",
+                        "uscfID": 132
+                    },
+                    {
+                        "segment": "Collection Support Trainers/QAA/Perf",
+                        "uscfID": 196
+                    },
+                    {
+                        "segment": "Fraud Prevention",
+                        "uscfID": 31
+                    },
+                    {
+                        "segment": "Risk Management",
+                        "uscfID": 133
+                    }
+                ]    
+            },
+            {
+                "dept_name": "Consumer Care",
+                "subs": [
+                    {
+                        "segment": "Virgin Postpaid",
+                        "uscfID": 1247
+                    }
+                ]    
+            },
+            {
+                "dept_name": "Customer Experience   ",
+                "subs": [
+                    {
+                        "segment": "Customer Experience EVP",
+                        "uscfID": 32
+                    }
+                ]    
+            },
+            {
+                "dept_name": "Field Services",
+                "subs": [
+                    {
+                        "segment": "Field Services Operations",
+                        "uscfID": 44
+                    }
+                ]    
+            },
+            {
+                "dept_name": "HR",
+                "subs": [
+                    {
+                        "segment": "Corporate HR",
+                        "uscfID": 45
+                    },
+                    {
+                        "segment": "HRA",
+                        "uscfID": 46
+                    },
+                    {
+                        "segment": "Presence at Work",
+                        "uscfID": 215
+                    },
+                    {
+                        "segment": "Time HR Administrator",
+                        "uscfID": 216
+                    }
+                ]    
+            },
+            {
+                "dept_name": "HR and Labor Relation",
+                "subs": [
+                    {
+                        "segment": "HR and Labor Relation",
+                        "uscfID": 1197
+                    }
+                ]    
+            },
+            {
+                "dept_name": "Information Technology",
+                "subs": [
+                    {
+                        "segment": "Information Technology",
+                        "uscfID": 1296
+                    }
+                ]    
+            },
+            {
+                "dept_name": "Loyalty Inbound",
+                "subs": [
+                    {
+                        "segment": "Atlantic - Residential Loyalty",
+                        "uscfID": 134
+                    },
+                    {
+                        "segment": "Client Solutions",
+                        "uscfID": 1475
+                    },
+                    {
+                        "segment": "Loyalty Cross-Serve",
+                        "uscfID": 1194
+                    },
+                    {
+                        "segment": "Retention L1",
+                        "uscfID": 78
+                    }
+                ]    
+            },
+            {
+                "dept_name": "Loyalty Outbound",
+                "subs": [
+                    {
+                        "segment": "Atlantic Loyalty Outbound",
+                        "uscfID": 1212
+                    },
+                    {
+                        "segment": "BRS Loyalty Outbound",
+                        "uscfID": 197
+                    },
+                    {
+                        "segment": "Mobility Loyalty Outbound",
+                        "uscfID": 1297
+                    }
+                ]    
+            },
+            {
+                "dept_name": "Loyalty Support",
+                "subs": [
+                    {
+                        "segment": "Atlantic - Loyalty Support Trainers/QAA/Perf",
+                        "uscfID": 135
+                    },
+                    {
+                        "segment": "Loyalty Programs",
+                        "uscfID": 79
+                    },
+                    {
+                        "segment": "Loyalty Support Trainers/QAA/Perf",
+                        "uscfID": 136
+                    },
+                    {
+                        "segment": "Mobility Retention",
+                        "uscfID": 1201
+                    },
+                    {
+                        "segment": "Residential Retention",
+                        "uscfID": 198
+                    },
+                    {
+                        "segment": "VP Loyalty",
+                        "uscfID": 1233
+                    }
+                ]    
+            },
+            {
+                "dept_name": "Marketing Operations  ",
+                "subs": [
+                    {
+                        "segment": "Marketing Operations  ",
+                        "uscfID": 218
+                    }
+                ]    
+            },
+            {
+                "dept_name": "National Retail",
+                "subs": [
+                    {
+                        "segment": "National Retail",
+                        "uscfID": 157
+                    }
+                ]    
+            },
+            {
+                "dept_name": "Products and Services",
+                "subs": [
+                    {
+                        "segment": "Products and Services",
+                        "uscfID": 156
+                    }
+                ]    
+            },
+            {
+                "dept_name": "Project & Process Delivery",
+                "subs": [
+                    {
+                        "segment": "Billing & On-Boarding",
+                        "uscfID": 137
+                    },
+                    {
+                        "segment": "Capex & Analytics",
+                        "uscfID": 33
+                    },
+                    {
+                        "segment": "Design and Delivery",
+                        "uscfID": 34
+                    },
+                    {
+                        "segment": "Desktop and Process Optimization",
+                        "uscfID": 199
+                    },
+                    {
+                        "segment": "Project & Business Analyst",
+                        "uscfID": 200
+                    },
+                    {
+                        "segment": "Take to Market",
+                        "uscfID": 201
+                    },
+                    {
+                        "segment": "Tech Support & Device Mgmt",
+                        "uscfID": 81
+                    },
+                    {
+                        "segment": "VP Project & Process Delivery",
+                        "uscfID": 1190
+                    }
+                ]    
+            },
+            {
+                "dept_name": "Sales and Distribution ",
+                "subs": [
+                    {
+                        "segment": "Sales and Distribution ",
+                        "uscfID": 97
+                    }
+                ]    
+            },
+            {
+                "dept_name": "Sales Inbound",
+                "subs": [
+                    {
+                        "segment": "Atlantic - Sales",
+                        "uscfID": 202
+                    },
+                    {
+                        "segment": "BRS Sales",
+                        "uscfID": 203
+                    }
+                ]    
+            },
+            {
+                "dept_name": "Sales Outbound",
+                "subs": [
+                    {
+                        "segment": "Atlantic - Sales Outbound Fibre",
+                        "uscfID": 138
+                    },
+                    {
+                        "segment": "BRS Sales Outbound",
+                        "uscfID": 82
+                    }
+                ]    
+            },
+            {
+                "dept_name": "Sales Support",
+                "subs": [
+                    {
+                        "segment": "Atlantic - Sales Planning & Support",
+                        "uscfID": 83
+                    },
+                    {
+                        "segment": "Sales eChat",
+                        "uscfID": 139
+                    },
+                    {
+                        "segment": "Sales Planning & Support",
+                        "uscfID": 140
+                    },
+                    {
+                        "segment": "Sales Support Trainers/QAA/Perf",
+                        "uscfID": 35
+                    }
+                ]    
+            },
+            {
+                "dept_name": "Small Business",
+                "subs": [
+                    {
+                        "segment": "Door to Door",
+                        "uscfID": 1454
+                    }
+                ]    
+            },
+            {
+                "dept_name": "Strategy & BI",
+                "subs": [
+                    {
+                        "segment": "Atlantic - Operational Planning & Technology",
+                        "uscfID": 1184
+                    },
+                    {
+                        "segment": "Atlantic - Vendor Management",
+                        "uscfID": 204
+                    },
+                    {
+                        "segment": "Atlantic BNQ - WFM",
+                        "uscfID": 1191
+                    },
+                    {
+                        "segment": "BI Campaign Insights",
+                        "uscfID": 141
+                    },
+                    {
+                        "segment": "BI Data Science",
+                        "uscfID": 1292
+                    },
+                    {
+                        "segment": "Business Intelligence",
+                        "uscfID": 85
+                    },
+                    {
+                        "segment": "Customer Operations SVP",
+                        "uscfID": 205
+                    },
+                    {
+                        "segment": "Grad Leadership Program",
+                        "uscfID": 87
+                    },
+                    {
+                        "segment": "HRA Support & Analysis",
+                        "uscfID": 88
+                    },
+                    {
+                        "segment": "Nordia Executives",
+                        "uscfID": 36
+                    },
+                    {
+                        "segment": "Operational Planning & Technology",
+                        "uscfID": 1185
+                    },
+                    {
+                        "segment": "Quantrics Executives",
+                        "uscfID": 206
+                    },
+                    {
+                        "segment": "Strategy and Analytics",
+                        "uscfID": 142
+                    },
+                    {
+                        "segment": "Vendor Management",
+                        "uscfID": 37
+                    },
+                    {
+                        "segment": "WFM",
+                        "uscfID": 1186
+                    },
+                    {
+                        "segment": "Workforce Management",
+                        "uscfID": 143
+                    }
+                ]    
+            },
+            {
+                "dept_name": "Tech",
+                "subs": [
+                    {
+                        "segment": "Atlantic - Tech Specialty",
+                        "uscfID": 89
+                    },
+                    {
+                        "segment": "Atlantic - Tech Trio",
+                        "uscfID": 90
+                    },
+                    {
+                        "segment": "Atlantic - Tier 2 Tech Support",
+                        "uscfID": 1265
+                    },
+                    {
+                        "segment": "BNQ Res Internet & TV Helpdesk",
+                        "uscfID": 144
+                    },
+                    {
+                        "segment": "BNQ Res Repair",
+                        "uscfID": 145
+                    },
+                    {
+                        "segment": "BRS TECH L1",
+                        "uscfID": 1276
+                    },
+                    {
+                        "segment": "BRS Tech L3",
+                        "uscfID": 39
+                    },
+                    {
+                        "segment": "BTV Night Team",
+                        "uscfID": 92
+                    },
+                    {
+                        "segment": "BTV Tech",
+                        "uscfID": 208
+                    },
+                    {
+                        "segment": "Card Services",
+                        "uscfID": 40
+                    },
+                    {
+                        "segment": "Tech Outsourcing",
+                        "uscfID": 1278
+                    }
+                ]    
+            },
+            {
+                "dept_name": "Tech Support",
+                "subs": [
+                    {
+                        "segment": "Atlantic - Backoffice Offline",
+                        "uscfID": 1230
+                    },
+                    {
+                        "segment": "Atlantic - Backoffice Trainers, QAA, Perf Mgmt",
+                        "uscfID": 41
+                    },
+                    {
+                        "segment": "BackOffice 800 Directory Assistance",
+                        "uscfID": 210
+                    },
+                    {
+                        "segment": "BackOffice BRS Outsourcing",
+                        "uscfID": 93
+                    },
+                    {
+                        "segment": "BackOffice BTV Billing",
+                        "uscfID": 211
+                    },
+                    {
+                        "segment": "BackOffice Directory Assistance",
+                        "uscfID": 212
+                    },
+                    {
+                        "segment": "BackOffice Group 10 OFA",
+                        "uscfID": 147
+                    },
+                    {
+                        "segment": "BackOffice Group 11 Spec",
+                        "uscfID": 42
+                    },
+                    {
+                        "segment": "BackOffice Help Desk",
+                        "uscfID": 1003
+                    },
+                    {
+                        "segment": "BackOffice High Speed Center",
+                        "uscfID": 94
+                    },
+                    {
+                        "segment": "BackOffice Offline",
+                        "uscfID": 1472
+                    },
+                    {
+                        "segment": "BackOffice Operator Services",
+                        "uscfID": 95
+                    },
+                    {
+                        "segment": "Backoffice Support Trainers/QAA/Perf",
+                        "uscfID": 213
+                    },
+                    {
+                        "segment": "BI Tech Specialties",
+                        "uscfID": 148
+                    },
+                    {
+                        "segment": "Tech Support Trainers/QAA/Perf",
+                        "uscfID": 43
+                    }
+                ]
+            }
+        ]    
+    },
+    {
+        "lob": "SB",
+        "subs": [
+            {
+                "dept_name": "Advanced Segment",
+                "subs": [
+                    {
+                        "segment": "Sales Operation",
+                        "uscfID": 1485
+                    }
+                ]    
+            },
+            {
+                "dept_name": "Assisted Install",
+                "subs": [
+                    {
+                        "segment": "Small Business",
+                        "uscfID": 1177
+                    }
+                ]    
+            },
+            {
+                "dept_name": "Care",
+                "subs": [
+                    {
+                        "segment": "Atlantic - SB",
+                        "uscfID": 1205
+                    },
+                    {
+                        "segment": "BNQ SB Care/Sales/Loyalty",
+                        "uscfID": 220
+                    },
+                    {
+                        "segment": "Care Services",
+                        "uscfID": 47
+                    }
+                ]    
+            },
+            {
+                "dept_name": "Care Sales & Tech Support",
+                "subs": [
+                    {
+                        "segment": "Business Performance",
+                        "uscfID": 221
+                    },
+                    {
+                        "segment": "Care Support Trainers/QAA/Perf",
+                        "uscfID": 222
+                    },
+                    {
+                        "segment": "SB Backoffice",
+                        "uscfID": 1239
+                    }
+                ]    
+            },
+            {
+                "dept_name": "Care Support",
+                "subs": [
+                    {
+                        "segment": "Atlantic - VP Small Business",
+                        "uscfID": 223
+                    },
+                    {
+                        "segment": "BNQ Backoffice Order Processing",
+                        "uscfID": 1171
+                    },
+                    {
+                        "segment": "BNQ Backoffice Specialty/HVC",
+                        "uscfID": 1281
+                    },
+                    {
+                        "segment": "BNQ SB Support Trainers/QAA/Perf",
+                        "uscfID": 1498
+                    },
+                    {
+                        "segment": "Business Process & Insight",
+                        "uscfID": 1483
+                    }
+                ]    
+            },
+            {
+                "dept_name": "Collection Outbound",
+                "subs": [
+                    {
+                        "segment": "SB Collection IB & OB",
+                        "uscfID": 98
+                    }
+                ]    
+            },
+            {
+                "dept_name": "Loyalty Inbound",
+                "subs": [
+                    {
+                        "segment": "Loyalty",
+                        "uscfID": 48
+                    }
+                ]    
+            },
+            {
+                "dept_name": "Loyalty Outbound",
+                "subs": [
+                    {
+                        "segment": "SB Loyalty Outbound",
+                        "uscfID": 1174
+                    }
+                ]    
+            },
+            {
+                "dept_name": "Project & Process Delivery",
+                "subs": [
+                    {
+                        "segment": "Project & Business Analyst",
+                        "uscfID": 1168
+                    }
+                ]    
+            },
+                {
+                "dept_name": "Sales",
+                "subs": [
+                    {
+                        "segment": "SB Sales",
+                        "uscfID": 49
+                    }
+                ]    
+            },
+            {
+                "dept_name": "Small Business",
+                "subs": [
+                    {
+                        "segment": "Door to Door",
+                        "uscfID": 1252
+                    }
+                ]    
+            },
+            {
+                "dept_name": "Strategy & BI",
+                "subs": [
+                    {
+                        "segment": "Operational Planning & Technology",
+                        "uscfID": 1187
+                    },
+                    {
+                        "segment": "WFM",
+                        "uscfID": 1249
+                    }
+                ]    
+            },
+            {
+                "dept_name": "Tech",
+                "subs": [
+                    {
+                        "segment": "BNQ SB Internet Help Desk",
+                        "uscfID": 1213
+                    },
+                    {
+                        "segment": "Tech L1",
+                        "uscfID": 1323
+                    },
+                    {
+                        "segment": "Tech Outsourcing",
+                        "uscfID": 1204
+                    }
+                ]
+            }
+        ]
+    }
+]

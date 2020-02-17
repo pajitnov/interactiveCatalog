@@ -1,0 +1,20 @@
+#dropdown-button-drop-0,
+#dropdown-button-drop-1,
+#dropdown-button-drop-2,
+#dropdown-button-drop-3,
+#dropdown-button-drop-4 {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 0.9rem;
+    background: white;
+}
+
+.dropdown-button-drop-0,
+.dropdown-button-drop-1,
+.dropdown-button-drop-2,
+.dropdown-button-drop-3,
+.dropdown-button-drop-4 {
+    flex: 2;
+}

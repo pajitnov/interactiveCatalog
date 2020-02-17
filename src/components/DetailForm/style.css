@@ -1,0 +1,136 @@
+.detail-form .modal-dialog {
+    width: 75% !important;
+    max-width: 100% !important;
+}
+
+.detail-form .modal-content {
+    border-radius: initial;
+}
+
+.detail-form .modal-content .modal-body {
+    padding: 1.2rem;
+}
+
+.detail-form .modal-dialog .modal-body .modal-title {
+    margin-top: 3rem;
+    margin-bottom: 1.2rem;
+    text-align: center;
+    font-size: 1.8rem;
+}
+
+.detail-form .modal-dialog .modal-body .duration {
+    position: absolute;
+    right: 1.2rem;
+    top: 1.2rem;
+    width: 5.625rem;
+    height: 5.625rem;
+    border: 0.1875rem solid #004b87;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.detail-form .modal-dialog .modal-body .duration .value {
+    color: #004b87;
+    font-size: 2.2rem;
+    line-height: 0.6;
+}
+
+.detail-form .modal-dialog .modal-body .detail {
+    width: 100%;
+    background: #004b87;
+    color: white;
+    text-align: center;
+    border-top-left-radius: 0.25rem;
+    border-top-right-radius: 0.25rem;
+    padding: 0.25rem;
+    margin-bottom: 1rem;
+}
+
+.detail-form .modal-dialog .modal-body .detail-fields .detail-field {
+    display: flex;
+}
+.detail-form .modal-dialog .modal-body .detail-fields {
+    margin-top: 2rem;
+}
+
+.detail-form .modal-dialog .modal-body .detail-fields .detail-array {
+    display: flex;
+    margin-top: 2rem;
+}
+
+.detail-form .modal-dialog .modal-body .detail-fields .detail-array .segments,
+.detail-form .modal-dialog .modal-body .detail-fields .detail-array .bp-flows {
+    margin-right: 30px;
+}
+
+.detail-form .modal-dialog .modal-body .detail-fields .detail-array .segments,
+.detail-form .modal-dialog .modal-body .detail-fields .detail-array .bp-flows,
+.detail-form .modal-dialog .modal-body .detail-fields .detail-array .kpi {
+    width: calc(33% - 20px);
+    color: #004b87;
+    font-size: 1.3rem;
+}
+
+.detail-form .modal-dialog .modal-body .detail-fields .detail-array .segments .block,
+.detail-form .modal-dialog .modal-body .detail-fields .detail-array .bp-flows .block,
+.detail-form .modal-dialog .modal-body .detail-fields .detail-array .kpi .block {
+    width: 100%;
+    border: 2px solid #0000009f;
+    color: #000000af;
+    min-height: 300px;
+    box-shadow: 3px 3px 5px;
+    padding: 0.5rem;
+}
+
+.detail-form .modal-dialog .modal-body .control {
+    margin-top: 1.2rem;
+    text-align: right;
+}
+.detail-form .modal-dialog .modal-body .control .close-btn {
+    margin-right: 0.5rem;
+}
+
+.detail-form .modal-dialog .modal-body .control .close-btn:hover {
+    background: #000000bf;
+    color: white;
+}
+
+.detail-form .modal-dialog .modal-body .assign-control {
+    text-align: center;
+    margin-top: 2rem;
+}
+
+.detail-form .modal-dialog .modal-body .assign-control .cancel-btn {
+    margin-right: 0.5rem;
+    border-color: #b73434;
+}
+
+.detail-form .modal-dialog .modal-body .assign-control .cancel-btn:hover {
+    background: #b73434;
+}
+
+.detail-form .modal-dialog .modal-body .assign-control .confirm-btn {
+    border-color: #23a32f;
+}
+
+.detail-form .modal-dialog .modal-body .assign-control .confirm-btn:hover {
+    background: #23a32f;
+}
+
+.detail-form .modal-dialog .modal-body .assign-title {
+    margin-top: 1.625rem;
+    color: #069622;
+    font-weight: bold;
+    font-size: 1.3125rem;
+}
+
+.detail-form .modal-dialog .modal-body .assign-info {
+    background-color: rgba(213,197,1,.3);
+    padding: 0.625rem;
+    width: 100%;
+    margin: 0.1875rem;
+    font-size: 0.875rem;
+}
